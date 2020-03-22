@@ -24,6 +24,7 @@ body {
 	/*background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   */
 /*font-family: 'Changa', sans-serif;*/
+  font-display: fallback;
   color:white;
   font-size: 16px;
   background: linear-gradient(-45deg, #855FB2 , #6ED4DB, #EE6FCF , #FF5C6C);
