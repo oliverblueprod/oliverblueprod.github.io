@@ -78,11 +78,13 @@ a{
     padding: .5vh;
 }
 #embedded_player{
-  width: 80vw;
+  width: 79vw;
   padding: .5vh;
+  margin:auto;
 }
 iframe{
   width:100%;
+  margin:auto;
 }
 #credit{
   font-family: 'Changa', sans-serif;
