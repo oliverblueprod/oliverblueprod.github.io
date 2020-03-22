@@ -1,18 +1,24 @@
 #mainTitle{
   font-family: 'Special Elite', cursive;
-  font-size: 2em;
+  font-size: 1.5em;
   margin:auto;
-  width: 20vw;
-  border-bottom: 1px solid white;
+
+
   align-content:center;
   text-align: center;
   margin-top: 2vh;
 
 }
+#tinyseparator{
+  width: 20vh;
+  border-bottom: 1px solid white;
+  margin: auto;
+}
 #jobtitle{
     font-family: 'Changa', sans-serif;
     align-content: center;
     text-align:center;
+    font-size: .8em;
 }
 body {
 	/*background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
@@ -37,10 +43,9 @@ body {
 	}
 }
 #floating-section{
-  width: 80vw;
+  width: 90vw;
   border-bottom: 1px solid white;
   margin: auto;
-  padding-top: 2vh;
   padding-bottom:2vh;
   padding-left: 2vw;
   padding-right: 2vw;
@@ -54,7 +59,7 @@ body {
   text-align:center;
 
   margin: auto;
-  font-size: 1.5em;
+  font-size: 1.2em;
 
 }
 a{
@@ -66,14 +71,14 @@ a{
 }
 #playerbox{
     border: 1px solid white;
-    width: 51vw;
+    width: 80vw;
     margin: auto;
     margin-top:2vh;
     margin-bottom: 2vh;
     padding: .5vh;
 }
 #embedded_player{
-  width: 50vw;
+  width: 80vw;
   padding: .5vh;
 }
 iframe{
